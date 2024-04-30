@@ -38,7 +38,7 @@ Le projet dépend d'un serveur apache obtenable dans l'application xampp
 
 ## Etape 9
 ### taper dans le navigateur
-    http://localhost/web_dev_3/pages/Home.php
+    http://localhost/web_dev_project/pages/Home.php
 
 ## Etape 10
 ### ouvrir le repertoire web_dev_project dans l'éditeur de code pour codage 😶️
