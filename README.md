@@ -17,7 +17,7 @@ Le projet dépend d'un serveur apache obtenable dans l'application xampp
 ### Ouvrir un navigateur et taper 
     http://localhost/phpmyadmin
 ### Dans l'onglet de phpmyadmin, créer un nouveau compte utilisateur en lui assignant
-#### nom utilisateur: prject
+#### nom utilisateur: project
 #### mot de passe: 1223334444
 
 ## Etape 6
