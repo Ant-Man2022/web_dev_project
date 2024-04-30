@@ -33,6 +33,9 @@ Le projet dépend d'un serveur apache obtenable dans l'application xampp
 ### selectionner ensuite le input qui permet d'importer un fichier
 ### naviguer dans le répertoire web_dev_project --> public --> database --> tables.sql et appuiyer sur OK pour selectionner ce fichier puis sur import pour créer les tables requis pour le projet
 
-## Etape 8
+## Etape 9
 ### taper dans le navigateur
     http://localhost/web_dev_3/pages/Home.php
+
+## Etape 10
+### ouvrir le repertoire web_dev_project dans l'éditeur de code pour codage 😶️
