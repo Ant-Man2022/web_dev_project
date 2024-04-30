@@ -7,9 +7,10 @@ Le projet dépend d'un serveur apache obtenable dans l'application xampp
 ## Etape 3
 ### taper les commandes suivantes dans le terminal en navigant au préalable vers le repertoire ~/xampp/htdocs/web_dev_project
     composer require stripe/stripe-cli/stripe
+    
     composer require paypal/rest-api-sdk-php:*
 
-### Si la commande composer n'est pas trouver, chercher sur internet comment l'installer en fonction du système d'exploitation
+### Si la commande composer n'est pas trouvé, chercher sur internet comment l'installer en fonction du système d'exploitation
 ## Etape 4
 ### lancer le serveur apache et le serveur mysql dans l'application xampp
 ## Etape 5
