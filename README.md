@@ -6,7 +6,7 @@ Le projet dépend d'un serveur apache obtenable dans l'application xampp
 ### placer le dossier cloné 'web_dev_project' dans le répertoire 'htdocs' de xampp
 ## Etape 3
 ### taper les commandes suivantes dans le terminal en navigant au préalable vers le repertoire ~/xampp/htdocs/web_dev_project
-    composer require stripe/stripe-cli/stripe
+    composer require stripe/stripe-php
     
     composer require paypal/rest-api-sdk-php:*
 
